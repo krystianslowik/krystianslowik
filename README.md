@@ -1,42 +1,49 @@
-# 💃🏽 buenos aires!
+# 💃🏽 buenos aires!  
 
-I'm **Krystian**, a tech enthusiast on a journey where becoming a developer is just one step, with a love for all things tech and problem-solving. I focus on bridging the gap between creative front-end design and efficient back-end solutions, always aiming to make tech accessible and fun.
+i'm **Krystian**, a tech enthusiast who's been everywhere and touched everything. developer? yeah, sure, but i break, fix, automate, and optimize—because why stop at just coding?    
 
-## 🚀 a `bit` about me
+## 🚀 a `bit` about me  
 
-I dive into both **frontend** and **backend** realms, always up for a challenge. From hitting UIs with **React** to architecting back-end systems with **TypeScript** and exploring **Kotlin**, I'm driven to deliver impactful results.
+frontend? backend? devops? all of it. if it runs, i'll figure it out. been deep in **typescript**, **kotlin**, and **php**, but always poking around new stacks. building sleek ui, crafting backend magic, or automating workflows—whatever makes tech work smarter, not harder.  
 
-> **do not forget:** all about automation — life's too short for repetitive tasks! ⚡
+> **do not forget:** automate everything. life's too short to do things twice. ⚡  
 
-## 💻 tech stack & toolbox
+## 💻 tech stack & toolbox  
 
-### main tools in my belt
-- **Languages**: JavaScript, TypeScript, Python, SQL, Bash, HTML, CSS, YAML, JSON, PHP. I forget some prolly, so ask if needed.
-- **Frontend**: React, Angular, Next.js, Tailwind CSS
-- **Backend**: Node.js, Express.js, REST APIs, PHP & bit Kotlin
-- **DevOps & cloud**: Docker, Kubernetes, AWS
-- **Automation & testing**: GitHub Actions, Jenkins, Playwright, Selenium
-- **Others I've worked with**: MongoDB, Redis, Elasticsearch, RabbitMQ, Azure Functions, GraphQL, Firebase.
+### main tools in my belt  
+- **languages**: typescript, javascript, python, kotlin, php, sql, bash, yaml, json, swift, ruby, go, java, c#, r, perl. yes, i’ve touched them all.  
+- **frontend**: react, angular, next.js, tailwind, twig (yeah, not just jsx).  
+- **backend**: node.js, express, nest.js, php, laravel, symfony, kotlin, spring boot, graphql, rest.  
+- **devops & cloud**: docker, kubernetes, aws, azure, terraform, ansible, cloudflare.  
+- **automation & testing**: github actions, jenkins, selenium, playwright, wiremock, pact, postman.  
+- **databases & storage**: mysql, postgresql, mongodb, redis, firebase, elasticsearch, cassandra, neo4j.  
+- **message brokers & event-driven**: rabbitmq, kafka, mqtt, websockets.  
 
-### curious explorations
-I've also dipped my toes into **Kotlin**, **Java**, **Go**, **Swift**, **Ruby**, **C#**, **R**, **Perl**, and experimented with tools like **neo4j**, **WireMock**, **Kafka**, **Terraform**, **Ansible**, **Cassandra**, and **Prometheus**. Constantly learning, forever curious.
+### curious explorations  
+i've played around with **haskell**, **rust**, **scala**, **clojure**, **erlang**, and some weird edge-case stuff like **prolog**. messed with **prometheus**, **loki**, **jaeger**, **openapi**, **keycloak**, **vault**, and **argocd** just to see what’s up. i like tinkering.  
 
-## 🛠️ what I love doing
-- Crafting sleek and interactive UIs with **React**, **Next.js**, and **Tailwind**.
-- Building solid back-end solutions with **Node.js**, **PHP**, and **AWS Lambda**.
-- Creating **CI/CD** pipelines with **GitHub Actions** for smoother workflows.
-- Designing robust environments with **Playwright** for effective testing.
+## 🛠️ what i love doing  
+- crafting **sleek ui** with **react**, **next.js**, and **tailwind**.  
+- building **robust backends** with **node.js**, **kotlin**, and **php**.  
+- automating **ci/cd** pipelines with **github actions** and **jenkins**.  
+- testing and mocking apis with **pact**, **playwright**, and **wiremock**.  
+- setting up **scalable infra** with **docker**, **kubernetes**, and **terraform**.  
 
-## 🌱 my opensourcers
-- **GH Action**: [Docker Compose Health Check GitHub Action](https://github.com/marketplace/actions/docker-compose-health-check)
-- **Kotlin**: [Echoserve (WireMock)](https://github.com/jaracogmbh/echoserve)
-- **TypeScript (library)**: [Trusted Shops SDK](https://github.com/krystianslowik/trustedshops-typescript-sdk)
-- **TypeScript/React**: [Fejkomat Generator](https://github.com/krystianslowik/hermitowski-fejkomat-generator), [krystianslowik.com](https://github.com/krystianslowik/krystianslowik_com), [walentynka.krystianslowik.com](https://github.com/krystianslowik/walentyna), [tryit.krystianslowik.com](https://github.com/krystianslowik/nice-tryit-editor), 
+## 🌱 my opensourcers  
+- **gh action**: [docker compose health check](https://github.com/marketplace/actions/docker-compose-health-check)  
+- **kotlin**: [echoserve (wiremock)](https://github.com/jaracogmbh/echoserve)  
+- **typescript (library)**: [trusted shops sdk](https://github.com/krystianslowik/trustedshops-typescript-sdk)  
+- **typescript/react**: [fejkomat generator](https://github.com/krystianslowik/hermitowski-fejkomat-generator), [krystianslowik.com](https://github.com/krystianslowik/krystianslowik_com), [walentynka.krystianslowik.com](https://github.com/krystianslowik/walentyna), [tryit.krystianslowik.com](https://github.com/krystianslowik/nice-tryit-editor)  
 
-## 🌍 beyond the code
-When I'm not coding, you can find me cruising on my **eBike** (shoutout to Bosch engines!), enjoying some **chilling**, experimenting with new **recipes**, or **taking care of my bonsai trees**. I'm also brushing up on my **chess skills**—always up for a challenge!
+## 🌍 beyond the code  
+when i'm not in terminal land, you’ll find me:  
+🚲 **cruising on my ebike** (bosch ftw)  
+🍳 **experimenting in the kitchen** (yes, i make a mean duck)  
+🌱 **taking care of my bonsai** (zen mode)  
+♟ **getting better at chess** (still bad, still trying)  
 
-## 🤝 let's build something amazing
-I'm open to collaboration, new opportunities, or just geeking out about tech! Want to know more or work together? Check out my work or reach me through my website: [**krystianslowik.com**](https://krystianslowik.com)
+## 🤝 let's build something amazing  
+always open to new ideas, cool projects, or just geeking out about tech. hit me up at  
+[**krystianslowik.com**](https://krystianslowik.com)  
 
-Let's make tech better, one line of code at a time. ✨
+**let’s keep the world running—one script at a time.** ✨  
