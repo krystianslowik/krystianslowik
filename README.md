@@ -1,49 +1,53 @@
-# 💃🏽 buenos aires!  
+# buenos aires!
 
-i'm **Krystian**, a tech enthusiast who's been everywhere and touched everything. developer? yeah, sure, but i break, fix, automate, and optimize—because why stop at just coding?    
+i'm Krystian, a tech head who breaks, fixes, and automates everything in sight. ai/ml, dev, backend, pipelines, support, whatever—if it can be made faster, smarter, or lazier, i'll mess with it.
 
-## 🚀 a `bit` about me  
+these days:  
+deep into ai/ml for biology and lab automation, digital pathology, and making sense of real-world data. building and training models, wrangling data (lots of images), deploying stuff that actually runs, making ai work for people who don't care how it works. if it's sample recognition or workflow automation, i'm probably in.
 
-frontend? backend? devops? all of it. if it runs, i'll figure it out. been deep in **typescript**, **kotlin**, and **php**, but always poking around new stacks. building sleek ui, crafting backend magic, or automating workflows—whatever makes tech work smarter, not harder.  
+## stack & toolbox
 
-> **do not forget:** automate everything. life's too short to do things twice. ⚡  
+**languages:**  
+typescript, kotlin, python, php, bash, sql, java, go, swift, json, yaml  
 
-## 💻 tech stack & toolbox  
+**frontend:**  
+react, next.js, angular, tailwind, twig  
 
-### main tools in my belt  
-- **languages**: typescript, javascript, python, kotlin, php, sql, bash, yaml, json, swift, ruby, go, java, c#, r, perl. yes, i’ve touched them all.  
-- **frontend**: react, angular, next.js, tailwind, twig (yeah, not just jsx).  
-- **backend**: node.js, express, nest.js, php, laravel, symfony, kotlin, spring boot, graphql, rest.  
-- **devops & cloud**: docker, kubernetes, aws, azure, terraform, ansible, cloudflare.  
-- **automation & testing**: github actions, jenkins, selenium, playwright, wiremock, pact, postman.  
-- **databases & storage**: mysql, postgresql, mongodb, redis, firebase, elasticsearch, cassandra, neo4j.  
-- **message brokers & event-driven**: rabbitmq, kafka, mqtt, websockets.  
+**backend:**  
+node.js, express, nest.js, laravel, symfony, spring boot, graphql, rest, fastapi  
 
-### curious explorations  
-i've played around with **haskell**, **rust**, **scala**, **clojure**, **erlang**, and some weird edge-case stuff like **prolog**. messed with **prometheus**, **loki**, **jaeger**, **openapi**, **keycloak**, **vault**, and **argocd** just to see what’s up. i like tinkering.  
+**devops/cloud:**  
+docker, kubernetes, github actions, azure, aws, terraform, ansible, cloudflare, argocd  
 
-## 🛠️ what i love doing  
-- crafting **sleek ui** with **react**, **next.js**, and **tailwind**.  
-- building **robust backends** with **node.js**, **kotlin**, and **php**.  
-- automating **ci/cd** pipelines with **github actions** and **jenkins**.  
-- testing and mocking apis with **pact**, **playwright**, and **wiremock**.  
-- setting up **scalable infra** with **docker**, **kubernetes**, and **terraform**.  
+**testing/automation:**  
+playwright, wiremock, pact, postman, selenium, jenkins  
 
-## 🌱 my opensourcers  
-- **gh action**: [docker compose health check](https://github.com/marketplace/actions/docker-compose-health-check)  
-- **kotlin**: [echoserve (wiremock)](https://github.com/jaracogmbh/echoserve)  
-- **typescript (library)**: [trusted shops sdk](https://github.com/krystianslowik/trustedshops-typescript-sdk)  
-- **typescript/react**: [fejkomat generator](https://github.com/krystianslowik/hermitowski-fejkomat-generator), [krystianslowik.com](https://github.com/krystianslowik/krystianslowik_com), [walentynka.krystianslowik.com](https://github.com/krystianslowik/walentyna), [tryit.krystianslowik.com](https://github.com/krystianslowik/nice-tryit-editor)  
+**data/storage:**  
+postgresql, mysql, mongodb, redis, elasticsearch, minio  
 
-## 🌍 beyond the code  
-when i'm not in terminal land, you’ll find me:  
-🚲 **cruising on my ebike** (bosch ftw)  
-🍳 **experimenting in the kitchen** (yes, i make a mean duck)  
-🌱 **taking care of my bonsai** (zen mode)  
-♟ **getting better at chess** (still bad, still trying)  
+**eventing:**  
+kafka, rabbitmq, mqtt, websockets  
 
-## 🤝 let's build something amazing  
-always open to new ideas, cool projects, or just geeking out about tech. hit me up at  
-[**krystianslowik.com**](https://krystianslowik.com)  
+**ai/ml & ops:**  
+yolo, cvat, colab, obsidian, prometheus, grafana, loki, jaeger, keycloak, vault  
 
-**let’s keep the world running—one script at a time.** ✨  
+## stuff i ship
+
+- **gh action:** [docker compose health check](https://github.com/marketplace/actions/docker-compose-health-check)  
+- **kotlin:** [echoserve (wiremock)](https://github.com/jaracogmbh/echoserve)  
+- **typescript:** [trusted shops sdk](https://github.com/krystianslowik/trustedshops-typescript-sdk)  
+- **react/ts:** [fejkomat generator](https://github.com/krystianslowik/hermitowski-fejkomat-generator), [krystianslowik.com](https://github.com/krystianslowik/krystianslowik_com), [walentynka.krystianslowik.com](https://github.com/krystianslowik/walentyna), [tryit.krystianslowik.com](https://github.com/krystianslowik/nice-tryit-editor)  
+
+## outside work
+
+experimental cooking (duck, pierogi, whatever’s left in the fridge)  
+chess (still bad, still playing)  
+ai/ml tinkering, random automation, side projects nobody asked for  
+
+## and next?
+
+always exploring new tech, not done learning. engineering management? maybe.  
+don’t do things twice—unless you can automate it, then you only do it once.
+
+**contact:** [krystianslowik.com](https://krystianslowik.com); owner of [codewarbler.com](https://codewarbler.com)  
+open to good ideas, weird tech, or building something that should’ve already existed.
