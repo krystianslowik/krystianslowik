@@ -41,7 +41,8 @@ yolo, cvat, colab, obsidian, prometheus, grafana, loki, jaeger, keycloak, vault
 ## outside work
 
 experimental cooking (duck, pierogi, whatever’s left in the fridge)  
-chess (still bad, still playing)  
+chess (still bad, still playing)
+i love drones—fpv self-builds and dji-based stack
 ai/ml tinkering, random automation, side projects nobody asked for  
 
 ## and next?
