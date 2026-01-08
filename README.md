@@ -1,54 +1,65 @@
 # buenos aires!
 
-i'm Krystian, a tech head who breaks, fixes, and automates everything in sight. ai/ml, dev, backend, pipelines, support, whatever—if it can be made faster, smarter, or lazier, i'll mess with it.
+I’m Krystian. I break things, fix them, and automate whatever survives. Backend, pipelines, AI/ML, support, infra — if it can be faster, smarter, or require less human involvement, I’ll probably touch it.
 
-these days:  
-deep into ai/ml for biology and lab automation, digital pathology, and making sense of real-world data. building and training models, wrangling data (lots of images), deploying stuff that actually runs, making ai work for people who don't care how it works. if it's sample recognition or workflow automation, i'm probably in.
+Right now I’m deep into AI/ML for biology and lab automation: digital pathology, sample recognition, image-heavy pipelines, and systems that actually run outside of slide decks. I build models, prepare and annotate data, deploy them, and make AI usable for people who don’t care how it works — only that it does.
+
+If it’s about workflow automation, image analysis, or reducing manual work in the real world, I’m likely involved.
 
 ## stack & toolbox
 
-**languages:**  
-typescript, kotlin, python, php, bash, sql, java, go, swift, json, yaml  
+Languages:  
+TypeScript, Kotlin, Python, PHP, Bash, SQL, Java, Go, Swift, JSON, YAML
 
-**frontend:**  
-react, next.js, angular, tailwind, twig  
+Frontend:  
+React, Next.js, Angular, Tailwind, Twig
 
-**backend:**  
-node.js, express, nest.js, laravel, symfony, spring boot, graphql, rest, fastapi  
+Backend:  
+Node.js, Express, NestJS, Laravel, Symfony, Spring Boot, GraphQL, REST, FastAPI
 
-**devops/cloud:**  
-docker, kubernetes, github actions, azure, aws, terraform, ansible, cloudflare, argocd  
+DevOps / Cloud:  
+Docker, Kubernetes, GitHub Actions, Azure, AWS, Terraform, Ansible, Cloudflare, ArgoCD
 
-**testing/automation:**  
-playwright, wiremock, pact, postman, selenium, jenkins  
+Testing & automation:  
+Playwright, WireMock, Pact, Postman, Selenium, Jenkins
 
-**data/storage:**  
-postgresql, mysql, mongodb, redis, elasticsearch, minio  
+Data & storage:  
+PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, MinIO
 
-**eventing:**  
-kafka, rabbitmq, mqtt, websockets  
+Eventing & messaging:  
+Kafka, RabbitMQ, MQTT, WebSockets
 
-**ai/ml & ops:**  
-yolo, cvat, colab, obsidian, prometheus, grafana, loki, jaeger, keycloak, vault  
+AI / ML & ops:  
+YOLO, CVAT, Colab, Obsidian, Prometheus, Grafana, Loki, Jaeger, Keycloak, Vault
 
 ## stuff i ship
 
-- **gh action:** [docker compose health check](https://github.com/marketplace/actions/docker-compose-health-check)  
-- **kotlin:** [echoserve (wiremock)](https://github.com/jaracogmbh/echoserve)  
-- **typescript:** [trusted shops sdk](https://github.com/krystianslowik/trustedshops-typescript-sdk)  
-- **react/ts:** [fejkomat generator](https://github.com/krystianslowik/hermitowski-fejkomat-generator), [krystianslowik.com](https://github.com/krystianslowik/krystianslowik_com), [walentynka.krystianslowik.com](https://github.com/krystianslowik/walentyna), [tryit.krystianslowik.com](https://github.com/krystianslowik/nice-tryit-editor)  
+- GitHub Action: Docker Compose Health Check  
+  https://github.com/marketplace/actions/docker-compose-health-check
+
+- Kotlin: Echoserve (WireMock-based mock server)  
+  https://github.com/jaracogmbh/echoserve
+
+- TypeScript: Trusted Shops SDK  
+  https://github.com/krystianslowik/trustedshops-typescript-sdk
+
+- React / TypeScript:  
+  Fejkomat Generator – https://github.com/krystianslowik/hermitowski-fejkomat-generator  
+  krystianslowik.com – https://github.com/krystianslowik/krystianslowik_com  
+  walentynka.krystianslowik.com – https://github.com/krystianslowik/walentyna  
+  tryit.krystianslowik.com – https://github.com/krystianslowik/nice-tryit-editor
 
 ## outside work
 
-experimental cooking (duck, pierogi, whatever’s left in the fridge)  
-chess (still bad, still playing)
-i love drones—fpv self-builds and dji-based stack
-ai/ml tinkering, random automation, side projects nobody asked for  
+Experimental cooking (duck, pierogi, whatever is left in the fridge)  
+Chess (still bad, still playing)  
+Drones — FPV self-builds and DJI-based stacks  
+AI/ML tinkering, automation experiments, side projects nobody asked for
 
 ## and next?
 
-always exploring new tech, not done learning. engineering management? maybe.  
-don’t do things twice—unless you can automate it, then you only do it once.
+Always learning, always exploring. Engineering management — maybe.  
+I don’t like doing things twice. Unless it’s automation — then you do it once and never again.
 
-**contact:** [krystianslowik.com](https://krystianslowik.com); owner of [codewarbler.com](https://codewarbler.com)  
-open to good ideas, weird tech, or building something that should’ve already existed.
+Contact: https://krystianslowik.com  
+Open to good ideas, weird tech, and building things that should have existed already.
