@@ -2,7 +2,7 @@
 
 I’m Krystian. I break things, fix them, and automate whatever survives. Backend, pipelines, AI/ML, support, infra — if it can be faster, smarter, or require less human involvement, I’ll probably touch it.
 
-Right now I’m deep into AI/ML for biology and lab automation: digital pathology, sample recognition, image-heavy pipelines, and systems that actually run outside of slide decks. I build models, prepare and annotate data, deploy them, and make AI usable for people who don’t care how it works — only that it does.
+These days it’s mostly applied AI/ML — data in, models out, systems shipped. I work on automation, image-heavy pipelines, and turning AI into something practical for people who just want results.
 
 If it’s about workflow automation, image analysis, or reducing manual work in the real world, I’m likely involved.
 
