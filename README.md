@@ -1,65 +1,38 @@
-# buenos aires!
+# hey, I’m Krystian
 
-I’m Krystian. I break things, fix them, and automate whatever survives. Backend, pipelines, AI/ML, support, infra — if it can be faster, smarter, or require less human involvement, I’ll probably touch it.
+I break things, fix them, and automate whatever survives.
 
-These days it’s mostly applied AI/ML — data in, models out, systems shipped. I work on automation, image-heavy pipelines, and turning AI into something practical for people who just want results.
+Backend systems, cloud infra, CI/CD, AI/ML pipelines – if it can be faster, leaner, or require less human involvement, I’m probably already in the repo. Most of my recent work sits at the intersection of applied AI, image-heavy data pipelines, and workflow automation – turning models into shipped systems, not notebooks.
 
-If it’s about workflow automation, image analysis, or reducing manual work in the real world, I’m likely involved.
+I debug what others can’t. I ship what others won’t.
 
-## stack & toolbox
+## stack
 
-Languages:  
-TypeScript, Kotlin, Python, PHP, Bash, SQL, Java, Go, Swift, JSON, YAML
+**Languages:** TypeScript, Python, Kotlin, Go, PHP, Bash, SQL  
+**Backend:** Node.js, NestJS, FastAPI, Spring Boot, Laravel, GraphQL, REST  
+**Frontend:** React, Next.js, Angular, Tailwind  
+**DevOps & Cloud:** Docker, Kubernetes, GitHub Actions, Terraform, ArgoCD, Azure, AWS, Cloudflare  
+**Data & Messaging:** PostgreSQL, MongoDB, Redis, Elasticsearch, Kafka, RabbitMQ, MQTT  
+**AI/ML:** YOLO, CVAT, Colab  
+**Observability & Security:** Prometheus, Grafana, Loki, Jaeger, Keycloak, Vault  
+**Testing:** Playwright, WireMock, Pact, Postman
 
-Frontend:  
-React, Next.js, Angular, Tailwind, Twig
+## stuff I ship
 
-Backend:  
-Node.js, Express, NestJS, Laravel, Symfony, Spring Boot, GraphQL, REST, FastAPI
+- **[Docker Compose Health Check](https://github.com/marketplace/actions/docker-compose-health-check)** – GitHub Action for service readiness checks in CI
+- **[Echoserve](https://github.com/jaracogmbh/echoserve)** – Kotlin, WireMock-based mock server for integration testing
+- **[Trusted Shops SDK](https://github.com/krystianslowik/trustedshops-typescript-sdk)** – TypeScript SDK for the Trusted Shops API
+- **[krystianslowik.com](https://github.com/krystianslowik/krystianslowik_com)** – personal site, React/TypeScript
 
-DevOps / Cloud:  
-Docker, Kubernetes, GitHub Actions, Azure, AWS, Terraform, Ansible, Cloudflare, ArgoCD
+## outside
 
-Testing & automation:  
-Playwright, WireMock, Pact, Postman, Selenium, Jenkins
+Experimental cooking (duck, pierogi, whatever’s left in the fridge). Chess (still bad, still playing). FPV drone builds. Side projects nobody asked for.
 
-Data & storage:  
-PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, MinIO
+## what’s next
 
-Eventing & messaging:  
-Kafka, RabbitMQ, MQTT, WebSockets
+Building things that should have existed already – definitely.  
+I don’t like doing things twice. Unless it’s automation, then you do it once and never again.
 
-AI / ML & ops:  
-YOLO, CVAT, Colab, Obsidian, Prometheus, Grafana, Loki, Jaeger, Keycloak, Vault
+-----
 
-## stuff i ship
-
-- GitHub Action: Docker Compose Health Check  
-  https://github.com/marketplace/actions/docker-compose-health-check
-
-- Kotlin: Echoserve (WireMock-based mock server)  
-  https://github.com/jaracogmbh/echoserve
-
-- TypeScript: Trusted Shops SDK  
-  https://github.com/krystianslowik/trustedshops-typescript-sdk
-
-- React / TypeScript:  
-  Fejkomat Generator – https://github.com/krystianslowik/hermitowski-fejkomat-generator  
-  krystianslowik.com – https://github.com/krystianslowik/krystianslowik_com  
-  walentynka.krystianslowik.com – https://github.com/krystianslowik/walentyna  
-  tryit.krystianslowik.com – https://github.com/krystianslowik/nice-tryit-editor
-
-## outside work
-
-Experimental cooking (duck, pierogi, whatever is left in the fridge)  
-Chess (still bad, still playing)  
-Drones — FPV self-builds and DJI-based stacks  
-AI/ML tinkering, automation experiments, side projects nobody asked for
-
-## and next?
-
-Always learning, always exploring. Engineering management — maybe.  
-I don’t like doing things twice. Unless it’s automation — then you do it once and never again.
-
-Contact: https://krystianslowik.com  
-Open to good ideas, weird tech, and building things that should have existed already.
+[krystianslowik.com](https://krystianslowik.com) | [LinkedIn](https://www.linkedin.com/in/krystianslowik)
