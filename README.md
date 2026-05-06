@@ -24,6 +24,16 @@ I debug what others can’t. I ship what others won’t.
 - **[Trusted Shops SDK](https://github.com/krystianslowik/trustedshops-typescript-sdk)** – TypeScript SDK for the Trusted Shops API
 - **[krystianslowik.com](https://github.com/krystianslowik/krystianslowik_com)** – personal site, React/TypeScript
 
+## homelab
+
+Live cluster signals — refreshed every ~30 s.
+
+![homelab](https://img.shields.io/endpoint?url=https%3A%2F%2Fcluster.codewarbler.com%2Fbadges%2Fhealth&style=flat)
+![pods](https://img.shields.io/endpoint?url=https%3A%2F%2Fcluster.codewarbler.com%2Fbadges%2Fpods&style=flat)
+![uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fcluster.codewarbler.com%2Fbadges%2Fuptime&style=flat)
+![restarts](https://img.shields.io/endpoint?url=https%3A%2F%2Fcluster.codewarbler.com%2Fbadges%2Frestarts-24h&style=flat)
+![etcd snap](https://img.shields.io/endpoint?url=https%3A%2F%2Fcluster.codewarbler.com%2Fbadges%2Fetcd-snap&style=flat)
+
 ## outside
 
 Experimental cooking (duck, pierogi, whatever’s left in the fridge). Chess (still bad, still playing). FPV drone builds. Side projects nobody asked for.
