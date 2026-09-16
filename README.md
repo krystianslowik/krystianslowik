@@ -16,10 +16,6 @@ Traefik, ArgoCD, Helm, Playwright, WireMock
 
 ## stuff I ship
 
-- [sched/core: WARN on migrate_disable_switch() with a pinned idle task](LKML_ARCHIVE_URL)
-  Kernel panics on my own cluster nodes. Traced through the vmcore to an idle
-  task with migration_disabled set and nr_pinned at zero, a state the API can't
-  produce. Submitted to LKML, under review.
 - [Docker Compose Health Check](https://github.com/marketplace/actions/docker-compose-health-check)
   GitHub Action for service readiness gating in CI. INSTALL_COUNT installs.
 - [Gorzko](https://gorzko.app)
