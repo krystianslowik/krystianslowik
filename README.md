@@ -17,13 +17,13 @@ Traefik, ArgoCD, Helm, Playwright, WireMock
 ## stuff I ship
 
 - [Docker Compose Health Check](https://github.com/marketplace/actions/docker-compose-health-check)
-  GitHub Action for service readiness gating in CI. INSTALL_COUNT installs.
+  GitHub Action for service readiness gating in CI.
 - [Gorzko](https://gorzko.app)
   Photo-sharing app. MinIO, presigned URLs, Kubernetes, Terraform, Cloudflare.
 - [Trusted Shops SDK](https://github.com/krystianslowik/trustedshops-typescript-sdk)
   TypeScript SDK for the Trusted Shops API.
 - [Echoserve](https://github.com/jaracogmbh/echoserve)
-  Kotlin, WireMock-based mock server for integration testing. YOUR_ROLE_HERE.
+  Kotlin, WireMock-based mock server for integration testing.
 
 ## homelab
 
